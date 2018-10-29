@@ -1,0 +1,27 @@
+Å¶1hÇŸÇ«éûåvÇ™íxÇÍÇƒÇ¢ÇÈÇΩÇﬂÅAé¿ç€ÇÃî≠ê∂éûçèÇÕ12éûç†ÇæÇ∆évÇÌÇÍÇ‹Ç∑
+
+Oct  6 10:57:02 contents02 init: tty (/dev/tty2) main process (1890) killed by TERM signal
+Oct  6 10:57:02 contents02 init: tty (/dev/tty3) main process (1892) killed by TERM signal
+Oct  6 10:57:02 contents02 init: tty (/dev/tty4) main process (1894) killed by TERM signal
+Oct  6 10:57:02 contents02 init: tty (/dev/tty5) main process (1896) killed by TERM signal
+Oct  6 10:57:02 contents02 init: tty (/dev/tty6) main process (1898) killed by TERM signal
+Oct  6 10:57:02 contents02 kdm: :0[1906]: Fatal X server IO error: Interrupted system call
+Oct  6 10:57:03 contents02 abrtd: Got signal 15, exiting
+Oct  6 10:57:04 contents02 xinetd[1663]: Exiting...
+Oct  6 10:57:07 contents02 pcscd: pcscdaemon.c:581:signal_trap() Preparing for suicide
+Oct  6 10:57:08 contents02 pcscd: readerfactory.c:1267:RFCleanupReaders() entering cleaning function
+Oct  6 10:57:08 contents02 pcscd: pcscdaemon.c:531:at_exit() cleaning /var/run
+Oct  6 10:57:08 contents02 acpid: exiting
+Oct  6 10:57:09 contents02 NetworkManager[1438]: <info> caught signal 15, shutting down normally.
+Oct  6 10:57:09 contents02 NetworkManager[1438]: <info> (eth0): cleaning up...
+Oct  6 10:57:09 contents02 NetworkManager[1438]: <info> (eth0): taking down device.
+Oct  6 10:57:09 contents02 kernel: tg3 0000:03:00.0: PME# enabled
+Oct  6 10:57:09 contents02 NetworkManager[1438]: <info> exiting (success)
+Oct  6 10:57:10 contents02 init: Disconnected from system bus
+Oct  6 10:57:10 contents02 console-kit-daemon[23160]: WARNING: no sender#012
+Oct  6 10:57:10 contents02 rpcbind: rpcbind terminating on signal. Restart with "rpcbind -w"
+Oct  6 10:57:10 contents02 auditd[1239]: The audit daemon is exiting.
+Oct  6 10:57:10 contents02 kernel: type=1305 audit(1538791030.810:88682): audit_pid=0 old=1239 auid=4294967295 ses=4294967295 res=1
+Oct  6 10:57:10 contents02 kernel: type=1305 audit(1538791030.908:88683): audit_enabled=0 old=1 auid=4294967295 ses=4294967295 res=1
+Oct  6 10:57:10 contents02 kernel: Kernel logging (proc) stopped.
+Oct  6 10:57:10 contents02 rsyslogd: [origin software="rsyslogd" swVersion="5.8.10" x-pid="1264" x-info="http://www.rsyslog.com"] exiting on signal 15.
