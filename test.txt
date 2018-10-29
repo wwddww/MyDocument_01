@@ -1,0 +1,565 @@
+Last login: Wed May 23 11:22:43 2018 from 10.178.168.77
+[root@cachatto02 ~]# subscription-manager remove --all
+このシステムから 0 サブスクリプションが削除されました。
+[root@cachatto02 ~]# subscription-manager unregister
+このシステムは現在登録されていません。
+[root@cachatto02 ~]# subscription-manager clean
+ローカルデータが全て削除されました
+[root@cachatto02 ~]# subscription-manager register
+警告
+
+このシステムはすでに RHN Classic で Red Hat に登録されています。
+
+Red Hat サブスクリプション管理でシステムの登録が再度行なわれようとしています。 Red Hat では、登録は 1 度しか行なわないようお客様にお願いしています。
+
+サービスの登録を解除をする方法については、 次のナレッジベースの記載をご覧くださ い: https://access.redhat.com/kb/docs/DOC-45563
+登録中: subscription.rhn.redhat.com:443/subscription
+ユーザー名: PanasonicSystemNetworks
+パスワード:
+最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+[root@cachatto02 ~]# subscription-manager register --username PanasonicSystemNetworks --password  prsd96 --auto-attach
+警告
+
+このシステムはすでに RHN Classic で Red Hat に登録されています。
+
+Red Hat サブスクリプション管理でシステムの登録が再度行なわれようとしています。 Red Hat では、登録は 1 度しか行なわないようお客様にお願いしています。
+
+サービスの登録を解除をする方法については、 次のナレッジベースの記載をご覧くださ い: https://access.redhat.com/kb/docs/DOC-45563
+登録中: subscription.rhn.redhat.com:443/subscription
+最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+[root@cachatto02 ~]# subscription-manager register --username PanasonicSystemNetworks --password  prsd96 --auto-attach
+警告
+
+このシステムはすでに RHN Classic で Red Hat に登録されています。
+
+Red Hat サブスクリプション管理でシステムの登録が再度行なわれようとしています。 Red Hat では、登録は 1 度しか行なわないようお客様にお願いしています。
+
+サービスの登録を解除をする方法については、 次のナレッジベースの記載をご覧くださ い: https://access.redhat.com/kb/docs/DOC-45563
+登録中: subscription.rhn.redhat.com:443/subscription
+最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+[root@cachatto02 ~]# subscription-manager register --username PanasonicSystemNetworks --password  prsd96 --auto-attach
+警告
+
+このシステムはすでに RHN Classic で Red Hat に登録されています。
+
+Red Hat サブスクリプション管理でシステムの登録が再度行なわれようとしています。 Red Hat では、登録は 1 度しか行なわないようお客様にお願いしています。
+
+サービスの登録を解除をする方法については、 次のナレッジベースの記載をご覧くださ い: https://access.redhat.com/kb/docs/DOC-45563
+登録中: subscription.rhn.redhat.com:443/subscription
+最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+[root@cachatto02 ~]# subscription-manager register --username PanasonicSystemNetworks --password  prsd96 --auto-attach
+警告
+
+このシステムはすでに RHN Classic で Red Hat に登録されています。
+
+Red Hat サブスクリプション管理でシステムの登録が再度行なわれようとしています。 Red Hat では、登録は 1 度しか行なわないようお客様にお願いしています。
+
+サービスの登録を解除をする方法については、 次のナレッジベースの記載をご覧くださ い: https://access.redhat.com/kb/docs/DOC-45563
+登録中: subscription.rhn.redhat.com:443/subscription
+最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+[root@cachatto02 ~]# subscription-manager register --username PanasonicSystemNetworks --password  prsd96 --auto-attach
+警告
+
+このシステムはすでに RHN Classic で Red Hat に登録されています。
+
+Red Hat サブスクリプション管理でシステムの登録が再度行なわれようとしています。 Red Hat では、登録は 1 度しか行なわないようお客様にお願いしています。
+
+サービスの登録を解除をする方法については、 次のナレッジベースの記載をご覧くださ い: https://access.redhat.com/kb/docs/DOC-45563
+登録中: subscription.rhn.redhat.com:443/subscription
+最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+[root@cachatto02 ~]# cat /var/log/rhsm/rhsm.log
+2018-05-20 03:06:37,761 [INFO] rhsmd:20533:MainThread @rhsmd:261 - rhsmd started
+2018-05-20 03:06:37,762 [INFO] rhsmd:20533:MainThread @rhsmd:292 - logging subscription status to syslog
+2018-05-20 03:06:38,338 [INFO] rhsmd:20533:MainThread @rhsmd:254 - rhsmd: This system is registered to RHN Classic.
+2018-05-20 07:00:54,874 [ERROR] rhsmcertd-worker:1392:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-20 11:00:54,912 [ERROR] rhsmcertd-worker:9227:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-20 15:00:55,137 [ERROR] rhsmcertd-worker:17565:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-20 19:00:55,341 [ERROR] rhsmcertd-worker:25283:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-20 23:00:55,245 [ERROR] rhsmcertd-worker:22810:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-21 03:00:56,118 [ERROR] rhsmcertd-worker:28253:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-21 03:00:56,419 [ERROR] rhsmcertd-worker:28257:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-21 03:35:23,153 [INFO] rhsmd:21796:MainThread @rhsmd:261 - rhsmd started
+2018-05-21 03:35:23,154 [INFO] rhsmd:21796:MainThread @rhsmd:292 - logging subscription status to syslog
+2018-05-21 03:35:23,717 [INFO] rhsmd:21796:MainThread @rhsmd:254 - rhsmd: This system is registered to RHN Classic.
+2018-05-21 07:00:56,529 [ERROR] rhsmcertd-worker:8087:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-21 11:00:57,557 [ERROR] rhsmcertd-worker:9958:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-21 15:00:57,046 [ERROR] rhsmcertd-worker:24475:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-21 19:00:57,552 [ERROR] rhsmcertd-worker:5227:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-21 23:00:57,249 [ERROR] rhsmcertd-worker:6865:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-22 03:00:57,909 [ERROR] rhsmcertd-worker:29956:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-22 03:00:58,348 [ERROR] rhsmcertd-worker:29975:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-22 03:21:35,444 [INFO] rhsmd:12714:MainThread @rhsmd:261 - rhsmd started
+2018-05-22 03:21:35,444 [INFO] rhsmd:12714:MainThread @rhsmd:292 - logging subscription status to syslog
+2018-05-22 03:21:38,479 [INFO] rhsmd:12714:MainThread @rhsmd:254 - rhsmd: This system is registered to RHN Classic.
+2018-05-22 07:00:58,787 [ERROR] rhsmcertd-worker:3938:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-22 11:00:58,583 [ERROR] rhsmcertd-worker:20958:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-22 11:08:46,716 [INFO] yum:8118:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 11:16:32,463 [INFO] subscription-manager:20579:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:16:32,465 [INFO] subscription-manager:20579:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 11:16:32,465 [INFO] subscription-manager:20579:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 11:16:32,466 [INFO] subscription-manager:20579:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:16:32,502 [INFO] subscription-manager:20579:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:16:32,515 [INFO] subscription-manager:20579:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:17:04,744 [INFO] subscription-manager:20579:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-22 11:17:05,723 [INFO] subscription-manager:20579:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-22 11:17:13,460 [ERROR] subscription-manager:20579:MainThread @managercli.py:177 - 登録中にエラーです: (104, '\xe6\x8e\xa5\xe7\xb6\x9a\xe3\x81\x8c\xe7\x9b\xb8\xe6\x89\x8b\xe3\x81\x8b\xe3\x82\x89\xe3\x83\xaa\xe3\x82\xbb\xe3\x83\x83\xe3\x83\x88\xe3\x81\x95\xe3\x82\x8c\xe3\x81\xbe\xe3\x81\x97\xe3\x81\x9f')
+2018-05-22 11:17:13,460 [ERROR] subscription-manager:20579:MainThread @managercli.py:178 - (104, '\xe6\x8e\xa5\xe7\xb6\x9a\xe3\x81\x8c\xe7\x9b\xb8\xe6\x89\x8b\xe3\x81\x8b\xe3\x82\x89\xe3\x83\xaa\xe3\x82\xbb\xe3\x83\x83\xe3\x83\x88\xe3\x81\x95\xe3\x82\x8c\xe3\x81\xbe\xe3\x81\x97\xe3\x81\x9f')
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 512, in _request
+    response = conn.getresponse()
+  File "/usr/lib64/python2.6/site-packages/rhsm/m2cryptohttp.py", line 182, in getresponse
+    return self._connection.getresponse(*args, **kwargs)
+  File "/usr/lib64/python2.6/httplib.py", line 1049, in getresponse
+    response.begin()
+  File "/usr/lib64/python2.6/httplib.py", line 433, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib64/python2.6/httplib.py", line 389, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib64/python2.6/socket.py", line 479, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/lib64/python2.6/site-packages/M2Crypto/SSL/Connection.py", line 228, in read
+    return self._read_bio(size)
+  File "/usr/lib64/python2.6/site-packages/M2Crypto/SSL/Connection.py", line 213, in _read_bio
+    return m2.ssl_read(self.ssl, size, self._timeout)
+SSLError: (104, '\xe6\x8e\xa5\xe7\xb6\x9a\xe3\x81\x8c\xe7\x9b\xb8\xe6\x89\x8b\xe3\x81\x8b\xe3\x82\x89\xe3\x83\xaa\xe3\x82\xbb\xe3\x83\x83\xe3\x83\x88\xe3\x81\x95\xe3\x82\x8c\xe3\x81\xbe\xe3\x81\x97\xe3\x81\x9f')
+2018-05-22 11:18:03,782 [INFO] subscription-manager:21683:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:18:03,784 [INFO] subscription-manager:21683:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 11:18:03,785 [INFO] subscription-manager:21683:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 11:18:03,785 [INFO] subscription-manager:21683:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:19:10,537 [INFO] subscription-manager:23920:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:19:10,538 [INFO] subscription-manager:23920:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 11:19:10,539 [INFO] subscription-manager:23920:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 11:19:10,539 [INFO] subscription-manager:23920:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:19:10,560 [INFO] subscription-manager:23920:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:19:10,565 [INFO] subscription-manager:23920:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:19:33,359 [INFO] subscription-manager:23920:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-22 11:19:34,097 [INFO] subscription-manager:23920:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-22 11:19:35,496 [INFO] subscription-manager:23920:MainThread @connection.py:525 - Response: status=401, requestUuid=571fd5e6-b9be-4243-861d-9e29b05cf6a0, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-22 11:19:35,497 [ERROR] subscription-manager:23920:MainThread @managercli.py:1154 - 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+2018-05-22 11:20:51,142 [INFO] subscription-manager:25176:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:20:51,143 [INFO] subscription-manager:25176:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 11:20:51,143 [INFO] subscription-manager:25176:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 11:20:51,143 [INFO] subscription-manager:25176:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:25:44,570 [INFO] subscription-manager:30651:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:25:44,571 [INFO] subscription-manager:30651:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 11:25:44,571 [INFO] subscription-manager:30651:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 11:25:44,572 [INFO] subscription-manager:30651:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:25:44,592 [INFO] subscription-manager:30651:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:25:44,595 [INFO] subscription-manager:30651:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:26:08,348 [INFO] subscription-manager:30651:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-22 11:26:09,120 [INFO] subscription-manager:30651:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-22 11:26:10,393 [INFO] subscription-manager:30651:MainThread @connection.py:525 - Response: status=401, requestUuid=fa7f5d04-f4e6-4aa3-8ca5-57a5af9ec583, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-22 11:26:10,394 [ERROR] subscription-manager:30651:MainThread @managercli.py:1154 - 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+2018-05-22 11:31:18,721 [INFO] subscription-manager:4987:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:31:18,722 [INFO] subscription-manager:4987:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 11:31:18,723 [INFO] subscription-manager:4987:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 11:31:18,724 [INFO] subscription-manager:4987:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:31:18,757 [INFO] subscription-manager:4987:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:31:18,764 [INFO] subscription-manager:4987:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:31:41,032 [INFO] subscription-manager:4987:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSysntemNetworks
+2018-05-22 11:31:41,787 [INFO] subscription-manager:4987:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-22 11:31:43,209 [INFO] subscription-manager:4987:MainThread @connection.py:525 - Response: status=401, requestUuid=f01129dd-6c23-461f-b2c9-9a079e459215, request="GET /subscription/users/PanasonicSysntemNetworks/owners"
+2018-05-22 11:31:43,211 [ERROR] subscription-manager:4987:MainThread @managercli.py:1154 - ユーザー名かパスワードが無効です。ログインを作成するには、https://www.redhat.com/wapps/ugc/register.html に進んでください
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: ユーザー名かパスワードが無効です。ログインを作成するには、https://www.redhat.com/wapps/ugc/register.html に進んでください
+2018-05-22 11:31:48,310 [INFO] subscription-manager:5192:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:31:48,311 [INFO] subscription-manager:5192:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 11:31:48,311 [INFO] subscription-manager:5192:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 11:31:48,312 [INFO] subscription-manager:5192:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:31:48,328 [INFO] subscription-manager:5192:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:31:48,332 [INFO] subscription-manager:5192:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:32:05,902 [INFO] subscription-manager:5192:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-22 11:32:06,649 [INFO] subscription-manager:5192:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-22 11:32:13,571 [INFO] subscription-manager:5192:MainThread @connection.py:525 - Response: status=401, requestUuid=ba55e56f-df7c-4c93-8cc2-f78abd727b77, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-22 11:32:13,572 [ERROR] subscription-manager:5192:MainThread @managercli.py:1154 - 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタ マーポータルから一旦ログアウトして、再度ログインする必要があります。
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+2018-05-22 11:37:49,606 [INFO] subscription-manager:11108:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:37:49,607 [INFO] subscription-manager:11108:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:37:49,607 [ERROR] subscription-manager:11108:MainThread @managercli.py:1913 - [Errno 21] ディレクトリです: '/root/\xe3\x83\x80\xe3\x82\xa6\xe3\x83\xb3\xe3\x83\xad\xe3\x83\xbc\xe3\x83\x89/'
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1897, in _do_command
+    extractor = managerlib.ImportFileExtractor(src_cert_file)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managerlib.py", line 655, in __init__
+    content = self._read(cert_file_path)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managerlib.py", line 659, in _read
+    fd = open(file_path, "r")
+IOError: [Errno 21] ディレクトリです: '/root/\xe3\x83\x80\xe3\x82\xa6\xe3\x83\xb3\xe3\x83\xad\xe3\x83\xbc\xe3\x83\x89/'
+2018-05-22 11:37:50,385 [INFO] rhsmd:11126:MainThread @rhsmd:261 - rhsmd started
+2018-05-22 11:37:56,137 [INFO] subscription-manager:11333:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 11:37:56,137 [INFO] subscription-manager:11333:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 11:37:56,140 [ERROR] subscription-manager:11333:MainThread @managercli.py:1907 - Error parsing manually imported entitlement certificate: /root/ダウ ンロード/2954d96e-7e5b-44f9-9032-40ef38ce74b4.pem
+2018-05-22 11:37:56,443 [INFO] rhsmd:11355:MainThread @rhsmd:261 - rhsmd started
+2018-05-22 13:06:22,374 [INFO] subscription-manager:4633:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 13:06:22,375 [INFO] subscription-manager:4633:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 13:06:22,380 [ERROR] subscription-manager:4633:MainThread @managercli.py:1907 - Error parsing manually imported entitlement certificate: /root/ダウンロード/2954d96e-7e5b-44f9-9032-40ef38ce74b4.pem
+2018-05-22 13:06:22,668 [INFO] rhsmd:4643:MainThread @rhsmd:261 - rhsmd started
+2018-05-22 13:12:50,523 [INFO] subscription-manager:11639:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 13:12:50,524 [INFO] subscription-manager:11639:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 13:12:50,524 [INFO] subscription-manager:11639:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 13:12:50,525 [INFO] subscription-manager:11639:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 13:13:01,153 [INFO] subscription-manager:11975:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 13:13:01,155 [INFO] subscription-manager:11975:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 13:13:01,156 [INFO] subscription-manager:11975:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 13:13:01,157 [INFO] subscription-manager:11975:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 13:13:01,194 [INFO] subscription-manager:11975:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 13:13:01,201 [INFO] subscription-manager:11975:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 13:17:19,331 [INFO] subscription-manager:11975:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-22 13:17:20,059 [INFO] subscription-manager:11975:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-22 13:17:21,763 [INFO] subscription-manager:11975:MainThread @connection.py:525 - Response: status=401, requestUuid=4c0c0af6-3224-4eee-9d54-14aa4774fa84, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-22 13:17:21,765 [ERROR] subscription-manager:11975:MainThread @managercli.py:1154 - 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+2018-05-22 14:37:34,285 [INFO] subscription-manager:2548:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 14:37:34,286 [INFO] subscription-manager:2548:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 14:37:34,287 [INFO] subscription-manager:2548:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 14:37:34,288 [INFO] subscription-manager:2548:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 14:37:34,321 [INFO] subscription-manager:2548:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 14:37:34,326 [INFO] subscription-manager:2548:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 14:39:31,948 [INFO] subscription-manager:2548:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-22 14:39:32,767 [INFO] subscription-manager:2548:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-22 14:39:35,588 [INFO] subscription-manager:2548:MainThread @connection.py:525 - Response: status=401, requestUuid=4434bb86-52e8-486e-9284-c477ce264eac, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-22 14:39:35,589 [ERROR] subscription-manager:2548:MainThread @managercli.py:1154 - ユーザー名かパスワードが無効です。ログインを作成するには、https://www.redhat.com/wapps/ugc/register.html に進んでください
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: ユーザー名かパスワードが無効です。ログインを作成するには、https://www.redhat.com/wapps/ugc/register.html に進んでください
+2018-05-22 14:48:26,742 [INFO] subscription-manager:15195:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 14:48:26,742 [INFO] subscription-manager:15195:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 14:48:26,748 [ERROR] subscription-manager:15195:MainThread @managercli.py:1907 - Error parsing manually imported entitlement certificate: /root/ダウ ンロード/2954d96e-7e5b-44f9-9032-40ef38ce74b4.pem
+2018-05-22 14:48:27,002 [INFO] rhsmd:15208:MainThread @rhsmd:261 - rhsmd started
+2018-05-22 14:50:37,721 [INFO] subscription-manager:17908:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 14:50:37,721 [INFO] subscription-manager:17908:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 14:50:37,724 [ERROR] subscription-manager:17908:MainThread @managercli.py:1907 - Error parsing manually imported entitlement certificate: /root/ダウ ンロード/2954d96e-7e5b-44f9-9032-40ef38ce74b4.pem
+2018-05-22 14:50:38,008 [INFO] rhsmd:17912:MainThread @rhsmd:261 - rhsmd started
+2018-05-22 14:59:46,117 [INFO] rhsmd:9346:MainThread @rhsmd:261 - rhsmd started
+2018-05-22 15:00:58,458 [ERROR] rhsmcertd-worker:13321:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-22 15:09:12,140 [INFO] subscription-manager:2320:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 15:09:12,142 [INFO] subscription-manager:2320:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-22 15:09:12,143 [INFO] subscription-manager:2320:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-22 15:09:12,144 [INFO] subscription-manager:2320:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 15:09:12,180 [INFO] subscription-manager:2320:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 15:09:12,187 [INFO] subscription-manager:2320:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 15:17:50,873 [INFO] subscription-manager:2320:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-22 15:17:51,643 [INFO] subscription-manager:2320:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-22 15:17:58,056 [INFO] subscription-manager:2320:MainThread @connection.py:525 - Response: status=401, requestUuid=b9407051-9818-40a6-aae6-efe95eeaf894, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-22 15:17:58,058 [ERROR] subscription-manager:2320:MainThread @managercli.py:1154 - ユーザー名かパスワードが無効です。ログインを作成するには、https://www.redhat.com/wapps/ugc/register.html に進んでください
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: ユーザー名かパスワードが無効です。ログインを作成するには、https://www.redhat.com/wapps/ugc/register.html に進んでください
+2018-05-22 15:18:23,161 [INFO] subscription-manager:13745:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 15:18:23,161 [INFO] subscription-manager:13745:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 15:18:23,161 [ERROR] subscription-manager:13745:MainThread @managercli.py:1913 - [Errno 21] ディレクトリです: '/root/\xe3\x83\x80\xe3\x82\xa6\xe3\x83\xb3\xe3\x83\xad\xe3\x83\xbc\xe3\x83\x89/'
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1897, in _do_command
+    extractor = managerlib.ImportFileExtractor(src_cert_file)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managerlib.py", line 655, in __init__
+    content = self._read(cert_file_path)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managerlib.py", line 659, in _read
+    fd = open(file_path, "r")
+IOError: [Errno 21] ディレクトリです: '/root/\xe3\x83\x80\xe3\x82\xa6\xe3\x83\xb3\xe3\x83\xad\xe3\x83\xbc\xe3\x83\x89/'
+2018-05-22 15:18:23,490 [INFO] rhsmd:13766:MainThread @rhsmd:261 - rhsmd started
+2018-05-22 15:18:28,325 [INFO] subscription-manager:13953:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-22 15:18:28,325 [INFO] subscription-manager:13953:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-22 15:18:28,329 [ERROR] subscription-manager:13953:MainThread @managercli.py:1907 - Error parsing manually imported entitlement certificate: /root/ダウ ンロード/741ab072-335c-456a-bda1-04baa20c8e3a.pem
+2018-05-22 15:18:28,620 [INFO] rhsmd:13969:MainThread @rhsmd:261 - rhsmd started
+2018-05-22 19:00:58,680 [ERROR] rhsmcertd-worker:21903:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-22 23:00:58,754 [ERROR] rhsmcertd-worker:10934:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-23 03:00:57,033 [ERROR] rhsmcertd-worker:13334:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-23 03:00:58,655 [ERROR] rhsmcertd-worker:13342:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-23 03:19:42,796 [INFO] rhsmd:27668:MainThread @rhsmd:261 - rhsmd started
+2018-05-23 03:19:42,797 [INFO] rhsmd:27668:MainThread @rhsmd:292 - logging subscription status to syslog
+2018-05-23 03:19:43,650 [INFO] rhsmd:27668:MainThread @rhsmd:254 - rhsmd: This system is registered to RHN Classic.
+2018-05-23 07:00:59,038 [ERROR] rhsmcertd-worker:23707:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-23 11:00:59,747 [ERROR] rhsmcertd-worker:602:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-23 11:39:24,268 [INFO] subscription-manager:23917:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-23 11:39:24,270 [INFO] subscription-manager:23917:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-23 11:39:24,281 [INFO] subscription-manager:23917:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-23 11:39:24,282 [INFO] subscription-manager:23917:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-23 11:39:24,473 [INFO] subscription-manager:23917:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-23 11:39:24,570 [INFO] subscription-manager:23917:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-23 11:40:15,696 [INFO] subscription-manager:23917:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-23 11:40:16,604 [INFO] subscription-manager:23917:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-23 11:40:19,417 [INFO] subscription-manager:23917:MainThread @connection.py:525 - Response: status=401, requestUuid=77cb847c-bd0c-4abd-a19e-d429b01a53b2, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-23 11:40:19,418 [ERROR] subscription-manager:23917:MainThread @managercli.py:1154 - ユーザー名かパスワードが無効です。ログインを作成するには、https://www.redhat.com/wapps/ugc/register.html に進んでください
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: ユーザー名かパスワードが無効です。ログインを作成するには、https://www.redhat.com/wapps/ugc/register.html に進んでください
+2018-05-23 12:01:45,323 [INFO] subscription-manager:3239:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-23 12:01:45,324 [INFO] subscription-manager:3239:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-23 12:01:45,325 [INFO] subscription-manager:3239:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-23 12:01:45,325 [INFO] subscription-manager:3239:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-23 12:54:32,328 [INFO] yum:12001:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-23 14:55:46,428 [INFO] rhsmd:4645:MainThread @rhsmd:261 - rhsmd started
+2018-05-23 15:00:58,916 [ERROR] rhsmcertd-worker:20563:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-23 19:00:59,507 [ERROR] rhsmcertd-worker:13819:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-23 23:00:59,154 [ERROR] rhsmcertd-worker:930:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-24 03:01:01,876 [ERROR] rhsmcertd-worker:19426:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-24 03:01:02,213 [ERROR] rhsmcertd-worker:19503:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-24 03:12:41,570 [INFO] rhsmd:27811:MainThread @rhsmd:261 - rhsmd started
+2018-05-24 03:12:41,571 [INFO] rhsmd:27811:MainThread @rhsmd:292 - logging subscription status to syslog
+2018-05-24 03:12:43,139 [INFO] rhsmd:27811:MainThread @rhsmd:254 - rhsmd: This system is registered to RHN Classic.
+2018-05-24 07:01:03,651 [ERROR] rhsmcertd-worker:2022:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-24 11:01:03,215 [ERROR] rhsmcertd-worker:26167:MainThread @rhsmcertd-worker:45 - Either the consumer is not registered or the certificates are corrupted. Certificate update using daemon failed.
+2018-05-24 14:31:33,432 [INFO] subscription-manager:9527:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:31:33,433 [INFO] subscription-manager:9527:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-24 14:31:33,434 [INFO] subscription-manager:9527:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-24 14:31:33,435 [INFO] subscription-manager:9527:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:31:33,948 [INFO] rhsmd:9540:MainThread @rhsmd:261 - rhsmd started
+2018-05-24 14:31:54,931 [INFO] subscription-manager:9693:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:31:54,932 [INFO] subscription-manager:9693:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-24 14:31:54,933 [INFO] subscription-manager:9693:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-24 14:31:54,933 [INFO] subscription-manager:9693:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:32:12,881 [INFO] subscription-manager:10001:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:32:12,898 [INFO] subscription-manager:10001:MainThread @managerlib.py:879 - Cleaned local data
+2018-05-24 14:32:13,203 [INFO] rhsmd:10010:MainThread @rhsmd:261 - rhsmd started
+2018-05-24 14:32:26,942 [INFO] subscription-manager:10219:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:32:26,944 [INFO] subscription-manager:10219:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-24 14:32:26,945 [INFO] subscription-manager:10219:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-24 14:32:26,947 [INFO] subscription-manager:10219:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:32:26,991 [INFO] subscription-manager:10219:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:32:26,998 [INFO] subscription-manager:10219:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:32:49,562 [INFO] subscription-manager:10219:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-24 14:32:50,576 [INFO] subscription-manager:10219:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-24 14:32:52,256 [INFO] subscription-manager:10219:MainThread @connection.py:525 - Response: status=401, requestUuid=ffccfc63-d57d-4e3d-af6f-2bb1270d97d2, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-24 14:32:52,258 [ERROR] subscription-manager:10219:MainThread @managercli.py:1154 - 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+2018-05-24 14:34:59,934 [INFO] subscription-manager:14908:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:34:59,935 [INFO] subscription-manager:14908:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-24 14:34:59,935 [INFO] subscription-manager:14908:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-24 14:34:59,936 [INFO] subscription-manager:14908:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:34:59,954 [INFO] subscription-manager:14908:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:34:59,957 [INFO] subscription-manager:14908:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:34:59,958 [INFO] subscription-manager:14908:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-24 14:35:00,727 [INFO] subscription-manager:14908:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-24 14:35:02,416 [INFO] subscription-manager:14908:MainThread @connection.py:525 - Response: status=401, requestUuid=2c7192b5-1f70-491b-8384-b900114db6d7, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-24 14:35:02,417 [ERROR] subscription-manager:14908:MainThread @managercli.py:1154 - 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+2018-05-24 14:46:00,363 [INFO] subscription-manager:27317:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:46:00,364 [INFO] subscription-manager:27317:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-24 14:46:00,365 [INFO] subscription-manager:27317:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-24 14:46:00,366 [INFO] subscription-manager:27317:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:46:00,400 [INFO] subscription-manager:27317:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:46:00,407 [INFO] subscription-manager:27317:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:46:00,408 [INFO] subscription-manager:27317:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-24 14:46:01,163 [INFO] subscription-manager:27317:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-24 14:46:03,158 [INFO] subscription-manager:27317:MainThread @connection.py:525 - Response: status=401, requestUuid=d92b607b-f020-46d2-9515-7077689ccc5f, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-24 14:46:03,160 [ERROR] subscription-manager:27317:MainThread @managercli.py:1154 - 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+2018-05-24 14:47:19,588 [INFO] subscription-manager:28181:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:47:19,589 [INFO] subscription-manager:28181:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-24 14:47:19,589 [INFO] subscription-manager:28181:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-24 14:47:19,589 [INFO] subscription-manager:28181:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:47:19,621 [INFO] subscription-manager:28181:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:47:19,628 [INFO] subscription-manager:28181:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:47:19,629 [INFO] subscription-manager:28181:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-24 14:47:20,370 [INFO] subscription-manager:28181:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-24 14:47:21,904 [INFO] subscription-manager:28181:MainThread @connection.py:525 - Response: status=401, requestUuid=dee0e509-86e1-4cd7-9748-dc56976ed4f7, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-24 14:47:21,905 [ERROR] subscription-manager:28181:MainThread @managercli.py:1154 - 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+2018-05-24 14:47:59,290 [INFO] subscription-manager:28999:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:47:59,291 [INFO] subscription-manager:28999:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-24 14:47:59,292 [INFO] subscription-manager:28999:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-24 14:47:59,292 [INFO] subscription-manager:28999:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:47:59,311 [INFO] subscription-manager:28999:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:47:59,315 [INFO] subscription-manager:28999:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:47:59,315 [INFO] subscription-manager:28999:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-24 14:48:00,026 [INFO] subscription-manager:28999:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-24 14:48:01,778 [INFO] subscription-manager:28999:MainThread @connection.py:525 - Response: status=401, requestUuid=31f34dc7-747d-414a-a1c1-f567ab2ff9b3, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-24 14:48:01,779 [ERROR] subscription-manager:28999:MainThread @managercli.py:1154 - 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+2018-05-24 14:49:03,954 [INFO] subscription-manager:30830:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:49:03,955 [INFO] subscription-manager:30830:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=identity_cert ca_dir=/etc/rhsm/ca/ insecure=False
+2018-05-24 14:49:03,956 [INFO] subscription-manager:30830:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=none
+2018-05-24 14:49:03,957 [INFO] subscription-manager:30830:MainThread @managercli.py:389 - Client Versions: {'python-rhsm': '1.18.6-1.el6', 'subscription-manager': '1.18.10-1.el6'}
+2018-05-24 14:49:03,992 [INFO] subscription-manager:30830:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:49:03,999 [INFO] subscription-manager:30830:MainThread @managercli.py:364 - Consumer Identity name=None uuid=None
+2018-05-24 14:49:04,001 [INFO] subscription-manager:30830:MainThread @connection.py:758 - Connection built: http_proxy=proxy.mei.co.jp:8080 host=subscription.rhn.redhat.com port=443 handler=/subscription auth=basic username=PanasonicSystemNetworks
+2018-05-24 14:49:04,755 [INFO] subscription-manager:30830:MainThread @hwprobe.py:918 - collected virt facts: virt.is_guest=True, virt.host_type=vmware, virt.uuid=421a18ea-8d0e-eb11-4a44-52ae2950f6eb
+2018-05-24 14:49:06,392 [INFO] subscription-manager:30830:MainThread @connection.py:525 - Response: status=401, requestUuid=3fba7d1e-9bf4-45ea-ae5d-779b2879f019, request="GET /subscription/users/PanasonicSystemNetworks/owners"
+2018-05-24 14:49:06,393 [ERROR] subscription-manager:30830:MainThread @managercli.py:1154 - 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1139, in _do_command
+    owner_key = self._determine_owner_key(admin_cp)
+  File "/usr/lib/python2.6/site-packages/subscription_manager/managercli.py", line 1286, in _determine_owner_key
+    owners = cp.getOwnerList(self.username)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 1054, in getOwnerList
+    return self.conn.request_get(method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 623, in request_get
+    return self._request("GET", method)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 534, in _request
+    self.validateResponse(result, request_type, handler)
+  File "/usr/lib64/python2.6/site-packages/rhsm/connection.py", line 587, in validateResponse
+    raise RestlibException(response['status'], error_msg, response.get('headers'))
+RestlibException: 最初に Red Hat の諸条件に同意する必要があります。https://www.redhat.com/wapps/tnc/termsack?event[]=signIn へ進んで下さい。条件を確認するには、カスタマーポータルから一旦ログアウトして、再度ログインする必要があります。
+2018-05-24 14:55:46,218 [INFO] rhsmd:11808:MainThread @rhsmd:261 - rhsmd started
+[root@cachatto02 ~]#
